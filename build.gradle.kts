@@ -4,7 +4,7 @@ plugins {
     id("maven-publish")
 }
 
-group = "me.thugrzz"
+group = "io.github.thugrzz"
 version = "1.0"
 
 val coroutinesVersion = "1.6.2"
